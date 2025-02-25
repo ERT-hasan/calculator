@@ -34,7 +34,7 @@ calculator-project/ │── index.html # Main HTML file (Structure of the Calc
 ## Installation & Usage
 1. **Download or Clone** this repository.  
    ```sh
- https://github.com/ERT-hasan/calculator
+ http://127.0.0.1:5500/calculator/index.html
 2 Open the index.html file in any browser.
 3 Start using the calculator.
 
